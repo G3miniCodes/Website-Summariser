@@ -66,7 +66,7 @@ Ensure you have Python 3.8 or later installed on your system.
 
 ```
 website-summarizer/
-│── app.py                 # Main application file
+│── main.py                 # Main application file
 │── requirements.txt       # Dependencies
 │── .env                   # Environment variables (not included in repo)
 └── README.md              # Project documentation
